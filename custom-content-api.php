@@ -4,7 +4,7 @@
  * Description: Exposes custom REST API endpoints for pages, posts, and custom post types with Gutenberg and ACF support
  * Version: 1.4.0
  * Author: Naveen Sharma
- * Author URI: https://github.com/naveensharma
+ * Author URI: https://naveenforhire.dev
  * License: GPLv2 or later
  * Text Domain: custom-content-api
  */
